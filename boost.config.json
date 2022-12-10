@@ -1,0 +1,1 @@
+{"pinned":false,"id":"6340f6c5-b37a-4e23-9c72-cccc8259afaa","scope":"www.facebook.com","installedInProfiles":[{"default":{}}],"extensionId":"gnpgpjblbfcijgoipldiaainfhkogpac","components":{"contentScript":{"path":"content.js","enabled":true},"contentStylesheet":{"path":"styles.css","enabled":true}},"extensionEnabled":true,"name":"Stop Infinite Scroll - Facebook"}
